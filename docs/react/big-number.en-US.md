@@ -1,6 +1,6 @@
 ---
 order: 9
-title: 大数字
+title: 大数字6
 ---
 
 `choerodon-ui` 大数字方案， 使用的第三方 bignumber.js 库。具体使用参见官网 [BigNumber](https://mikemcl.github.io/bignumber.js/)
